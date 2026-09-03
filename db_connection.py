@@ -1,3 +1,5 @@
+print ("hola mundo")
+
 import psycopg2
 from psycopg2 import Error
 from psycopg2.extras import DictCursor
