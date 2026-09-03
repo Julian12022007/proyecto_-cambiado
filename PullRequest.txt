@@ -1,0 +1,3 @@
+Un Pull Request es básicamente una solicitud para decir: ( Oye, hice unos cambios en mis ramas secundarias, ¿los podemos revisar para meterlos al main? )
+Por ejemplo: En el trabajo desarrollamos el cambio que hicimos en el código de nuestro proyecto y agregamos el print("Hola Mundo") para después subir esa rama secundaria al GitHub. Entonces hacemos una Pull Request para pedir que esos cambios se fusionen con la rama main.
+pero la función principal es revisar los cambios antes de mezclarlos con main, especialmente cuando trabajan varias personas en el mismo proyecto.
